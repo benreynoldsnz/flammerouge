@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Roboto');
+
+
+
+h1 {
+font-family: 'Righteous', cursive;
+}
+
+
+p {
+   font-family: 'Roboto', sans-serif; 
+}
+
+.text-center {
+    text-align: center;   
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.bottom-stuff {
+    padding: 0px 30px 30px 30px;
+    margin-left:150px;
+    position: relative;
+}
+
+.bottom{
+
+    position: absolute; bottom: 0px; 
+}
